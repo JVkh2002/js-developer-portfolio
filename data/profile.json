@@ -1,6 +1,6 @@
 {
   "name": "João Victor Avelino Lima",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/129570244?v=4",
   "job": "Suporte de TI",
   "location": "São Paulo - SP",
   "phone": "(11) 94822-9896",
@@ -46,13 +46,13 @@
 
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex com javascript",
+      "url": "https://github.com/JVkh2002/Pokedex-details",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Página de notícias com angular",
+      "url": "https://github.com/JVkh2002/Blog-Angula-",
       "github": true
     }
   ],
